@@ -1,4 +1,4 @@
-# CSS-Button-UI-Design
+# CSS Button UI Design
 CSS project with the purpose of studying animations and transitions.
 
 ## Available Scripts
